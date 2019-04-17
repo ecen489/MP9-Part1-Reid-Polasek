@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "129583902763",
+    "firebase_url": "https://mp9-part1.firebaseio.com",
+    "project_id": "mp9-part1",
+    "storage_bucket": "mp9-part1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129583902763:android:51c9f2f42bec5c36",
+        "android_client_info": {
+          "package_name": "com.example.mp9part1reidpolasek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129583902763-0bivtin0dk5t4bke40b409vd2biffrhg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvbZB-RiTS32Uli2Z9fXXlswy_iq_Ypts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129583902763-0bivtin0dk5t4bke40b409vd2biffrhg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
